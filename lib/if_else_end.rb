@@ -1,3 +1,4 @@
+current_time = Time.now
 if ==
   puts "even!"
 else
