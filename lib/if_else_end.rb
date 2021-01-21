@@ -1,5 +1,5 @@
 if ==
-  puts even!
+  puts "even!"
 else
-  puts odd!
+  puts "odd!"
 end
